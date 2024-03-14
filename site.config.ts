@@ -10,15 +10,15 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Notion Vercel Site Template',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  domain: 'nextjs-notion-starter-kit-passto.vercel.app',
+  author: 'Meyer Cheng',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  twitter: 'meyer_net',
+  github: 'meyer_net',
   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
