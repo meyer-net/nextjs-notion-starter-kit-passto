@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'meyer_net',
   github: 'meyer_net',
-  linkedin: 'fisch2',
+  linkedin: 'meyer_net',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
