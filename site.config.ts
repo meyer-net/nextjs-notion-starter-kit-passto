@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'cdd33c9ffdcc4f40b63508e56f323102',
+  rootNotionPageId: 'e02a0efe35b8404b8999b9c645737f81',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Notion Vercel Site Template',
+  name: 'PassTo Pay',
   domain: 'nextjs-notion-starter-kit-passto.vercel.app',
   author: 'Meyer Cheng',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Example Next.js Notion Starter Kit Site For PassTo Pay',
 
   // social usernames (optional)
   twitter: 'meyer_net',
